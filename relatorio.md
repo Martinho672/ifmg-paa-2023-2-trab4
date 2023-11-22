@@ -2,7 +2,7 @@
 
 **Fernando Martinho Nascimento & Lucas Guimarães Bernardes**
 
-Este relatório detalha a implementação da função `biggest_substr` e destaca as dificuldades encontradas durante o desenvolvimento.
+Este relatório detalha a implementação do trabalho 4  `"Dabriel e Suas Strings` e destaca as dificuldades encontradas durante o desenvolvimento.
 
 ## Função `biggest_substr`
 
